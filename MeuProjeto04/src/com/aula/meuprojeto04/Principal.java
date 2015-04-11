@@ -95,7 +95,6 @@ public class Principal extends ActionBarActivity {
     	alerta.setMessage(msg);
     	alerta.setPositiveButton("Ok", null);
     	alerta.show();
-    	//Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
     }
     
 }
